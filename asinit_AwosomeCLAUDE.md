@@ -136,8 +136,6 @@ cd "$env:USERPROFILE\Awesome_ClaudeMD"; git pull origin main
 2. **目录**：使用根目录统一测试目录（`tests/` 或 `__tests__/`）
 3. **命名**：测试文件与被测模块对应，如 `tests/user.test.ts` 对应 `src/user.ts`
 
-
-
 <!-- CONSTRAINTS END -->
 
 <!-- ASINIT END -->
